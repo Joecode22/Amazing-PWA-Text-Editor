@@ -14,7 +14,7 @@ This text editor uses PWA (Progressive Web Application) principles
 1. [License](#license)
 2. [Description](#description)
 3. [Application](#application)
-4. [Video](#video)
+4. [Screenshot](#screenshot)
 5. [Installation](#installation)
 6. [Contributing](#contributing)
 7. [Credits](#credits)
@@ -24,7 +24,7 @@ This text editor uses PWA (Progressive Web Application) principles
 
 This application is deployed at the following link: https://amazing-pwa-text-editor.herokuapp.com/
 
-## Image
+## Screenshot
 
 
 
