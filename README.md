@@ -26,6 +26,7 @@ This application is deployed at the following link: https://amazing-pwa-text-edi
 
 ## Screenshot
 
+![screencapture-amazing-pwa-text-editor-herokuapp-2023-06-03-22_10_36](https://github.com/Joecode22/Amazing-PWA-Text-Editor/assets/93625431/042aded2-cbdd-4e9d-8992-5f1fdd692f82)
 
 
 ## Installation
